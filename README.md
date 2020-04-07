@@ -1,4 +1,4 @@
-# Promise example
+# JavaScript Promise example
 
 A promise can be explicitly created using the **Promise** constructor. The constructor takes only one argument, a callback function taking 2 arguments, **resolve()** and **reject()**.
 
